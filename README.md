@@ -1,6 +1,6 @@
-# ad_preview
+# AD Preview
 
-A new Flutter application.
+Flutter application for preview google admob.
 
 ## Getting Started
 
